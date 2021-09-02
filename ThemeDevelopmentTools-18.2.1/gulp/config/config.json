@@ -25,8 +25,8 @@
         "deploy": "DeployDistribution",
         "extensions_dest_name": "Deploy_Extensions",
         "extmech_parent": "-15",
-        "theme_path": "Workspace/Suite_Commerce_Base_Theme",
-        "overrides_path": "Workspace/Suite_Commerce_Base_Theme/Overrides",
+        "theme_path": "Workspace/Custom_theme_1_0_0",
+        "overrides_path": "Workspace/Custom_theme_1_0_0/Overrides",
         "extensions_dest": "999"
     },
     "application": {},
